@@ -1,6 +1,10 @@
 # Mercury One.1 - Metal Stepper Mounts
  Metal stepper mounts for the Mercury one.1
 
+
+The DXF Files may change based on feedback, I have made a few minor iterations for my own testing.
+
+
  These are a self source design using laser cut aluminum plates from vendors like sendcutsend. The center printed parts are non structual. They space the flange stack bearings and have a self guiding belth path around the stepper pulley.
  
  There are two sets of files, imperial for .125 inch plate, and metric for 3mm plate.
