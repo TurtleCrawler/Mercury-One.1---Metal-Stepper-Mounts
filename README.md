@@ -9,4 +9,4 @@
 
  The printed inserts do not provide any structual support. They are only there to set the belt height and act as a guide for the belts.
 
- ![Metal Stepper Towers](Images/Metal Stepper Towers.png)
+ ![Metal Stepper Towers](https://github.com/TurtleCrawler/Mercury-One.1---Metal-Stepper-Mounts/blob/main/Images/Metal%20Stepper%20Towers.png))
